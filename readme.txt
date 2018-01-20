@@ -6,3 +6,5 @@ Creating dev branch is quickly & simple.
 merge Fast forward.
 merge with no-ff.
 chachachachahcha.
+aaaaaaaaaa.
+bbbbbbbbbb.
