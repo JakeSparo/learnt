@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 dave johnnys.
 Creating dev branch is quickly & simple.
+merge Fast forward.
